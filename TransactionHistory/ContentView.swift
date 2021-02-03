@@ -9,8 +9,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @EnvironmentObject var appData: AppData
+    
     var body: some View {
-        Text("Hello, World!")
+        NavigationView {
+            History()
+        }
     }
 }
 

@@ -18,8 +18,8 @@ struct History: View {
                     TransactionsByMonth()
                 }
             }
-            .navigationBarTitle("History")
-           
+            .navigationBarHidden(true)
+            .navigationBarTitle("")
     }
 }
 

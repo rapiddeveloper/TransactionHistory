@@ -14,9 +14,7 @@ struct NavBar: View {
     
     var body: some View {
         VStack {
-//            Image("blueCard")
-//                .resizable()
-//                .scaledToFit()
+ 
             VStack {
                 HStack(alignment: .bottom) {
                     VStack(alignment: .leading, spacing: 8) {
@@ -41,10 +39,10 @@ struct NavBar: View {
                 HStack {
                     Group {
                         Image(systemName: "magnifyingglass")
-                        Text("Search")
+                        //Text("Search")
                     }
                     .foregroundColor(Color(UIColor.systemGray))
-                    TextField("", text: $searchInput)
+                    TextField("Search", text: $searchInput)
                     
                 }
                 .padding(.horizontal, 16)
