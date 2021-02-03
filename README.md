@@ -1,5 +1,6 @@
 # TransactionHistory
-A transaction History Screen in SwiftUI
-<video width="320" height="240" controls>
-  <source src="HistoryHome.mp4" type="video/mp4">
-</video>
+A transaction History Screen written in SwiftUI 
+<div style="display: flex;">
+   <img src="historyLight.png" width="375" height="734"/>
+  <img src="historyDark.png" width="375" height="734"/>
+</div>
