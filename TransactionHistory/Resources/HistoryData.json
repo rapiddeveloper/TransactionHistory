@@ -1,0 +1,84 @@
+[
+    {
+        "date": "31/1/2021",
+        "transactions": [
+            {
+                "imageName": "tubosun",
+                "title": "Tubosun Deinde",
+                "cardType": "Visa",
+                "cardLastDigits": 3366,
+                "direction": "recieved",
+                "amount": 40000
+            },
+            {
+                "title": "House Rent",
+                "cardType": "Master",
+                "cardLastDigits": 1266,
+                "direction": "sent",
+                "amount": 500000
+            },
+            {
+                "title": "Flight Ticket",
+                "cardType": "Master",
+                "cardLastDigits": 1222,
+                "direction": "sent",
+                "amount": 350000
+            },
+            {
+                "title": "Iphone 12 pro",
+                "cardType": "Master",
+                "cardLastDigits": 1252,
+                "direction": "recieved",
+                "amount": 650000
+            },
+            {
+                "title": "EKEDC Prepaid",
+                "cardType": "Visa",
+                "cardLastDigits": 1202,
+                "direction": "sent",
+                "amount": 120000
+            }
+        ]
+    },
+    {
+        "date": "30/1/2021",
+        "transactions": [
+            {
+                "imageName": "jennifer",
+                "title": "Jennifer Nwanchukwu",
+                "cardType": "Visa",
+                "cardLastDigits": 3366,
+                "direction": "recieved",
+                "amount": 120000
+            },
+            {
+                "title": "Dinner Date",
+                "cardType": "Master",
+                "cardLastDigits": 1266,
+                "direction": "sent",
+                "amount": 120000
+            },
+            {
+                "title": "Car Purchase",
+                "cardType": "Master",
+                "cardLastDigits": 1222,
+                "direction": "sent",
+                "amount": 3520000
+            },
+            {
+                "title": "Leadway Assuarance",
+                "cardType": "Master",
+                "cardLastDigits": 1252,
+                "direction": "recieved",
+                "amount": 1200000
+            },
+            {
+                "title": "Food Allowance",
+                "cardType": "Visa",
+                "cardLastDigits": 1202,
+                "direction": "recieved",
+                "amount": 12000
+            }
+        ]
+    }
+]
